@@ -1,0 +1,1452 @@
+[
+  {
+    "round_id": 0,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 1,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 2,
+    "cards": [
+      2,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 3,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 4,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 5,
+    "cards": [
+      2,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 6,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 7,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 8,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 9,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 10,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 11,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 12,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 13,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 14,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 15,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 16,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 17,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 18,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 19,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 20,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 21,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 22,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 23,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 24,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 25,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 26,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 27,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 28,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 29,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 30,
+    "cards": [
+      2,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 31,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 32,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 33,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 34,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 35,
+    "cards": [
+      2,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 36,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 37,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 38,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 39,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 40,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 41,
+    "cards": [
+      2,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 42,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 43,
+    "cards": [
+      1,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 2], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 44,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 45,
+    "cards": [
+      2,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 2,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [2, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 46,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 47,
+    "cards": [
+      3,
+      2
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 2,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 2], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 48,
+    "cards": [
+      3,
+      1
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      2.0,
+      -2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 3,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      },
+      "player_1": {
+        "card": 1,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [3, 1], Actions ['Bet', 'Bet'], Rewards [2.0, -2.0]"
+      }
+    }
+  },
+  {
+    "round_id": 49,
+    "cards": [
+      1,
+      3
+    ],
+    "actions": [
+      "Bet",
+      "Bet"
+    ],
+    "rewards": [
+      -2.0,
+      2.0
+    ],
+    "player_data": {
+      "player_0": {
+        "card": 1,
+        "state": "Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      },
+      "player_1": {
+        "card": 3,
+        "state": "Bet Bet",
+        "action": "Bet",
+        "feedback": "Round result: Cards [1, 3], Actions ['Bet', 'Bet'], Rewards [-2.0, 2.0]"
+      }
+    }
+  }
+]

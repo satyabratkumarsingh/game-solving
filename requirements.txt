@@ -1,0 +1,14 @@
+open_spiel
+psutil
+tqdm
+openai
+langchain
+langgraph
+matplotlib
+langchain_community
+langchain_google_genai
+pandas
+numpy
+langchain_openai
+dotenv
+seaborn

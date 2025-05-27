@@ -1,0 +1,8 @@
+You are playing Kuhn Poker. The deck has 3 cards: J, Q, and K, coded as 1, 2, 3.
+Each player is dealt one card. You are Player {player_id}, and your card is {card}.
+Previous states:
+{state_history}
+Now it's your turn.
+Available actions: [Bet, Pass]
+What do you want to do?
+Please respond with one of: "Bet" or "Pass"
